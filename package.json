@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server that displays Hello World",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
